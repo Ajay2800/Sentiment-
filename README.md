@@ -1,3 +1,5 @@
+It is a project given to me in my college to do sentiment analysis on the data
+
 Sentiment Analysis
 The project involves sentiment analysis, a natural language processing (NLP) task aimed at determining the sentiment expressed in text data.
 The dataset likely consists of textual data along with sentiment labels (Negative, Neutral, Positive), and the goal is to build a model that can accurately predict the sentiment of new text data.
